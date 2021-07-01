@@ -1,8 +1,8 @@
 header {
     display: flex;
     justify-content: space-between;
-    background-color: #580a55;
-    border-bottom: 10px solid #000;
+    background-color: #911e8d;
+    border-bottom: 10px solid rgb(50, 71, 165);
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 10px;
@@ -55,8 +55,8 @@ transform: scale(1.1);
 }header {
         display: flex;
         justify-content: space-between;
-        background-color: #882D2D;
-        border-bottom: 10px solid rgb(27, 160, 201);
+        background-color: #2696b3;
+        border-bottom: 10px solid rgb(0, 0, 0);
         padding-left: 10px;
         padding-right: 10px;
         padding-top: 10px;
@@ -83,7 +83,7 @@ a {
 a::before {
     display: inline-block;
     content: "";
-    background-color: rgb(27, 160, 201);
+    background-color: rgb(109, 16, 214);
     width:  10px;
     height: 10px;
     margin-right: 10px;

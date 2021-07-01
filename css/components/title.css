@@ -1,5 +1,6 @@
-h1{ font-family: 'Anton', sans-serif;
-    font-size: 40px;
-    font-family: 'Press Start 2P', cursive;color: #865af2;
+h1{ font-size: 40px;
+    font-family: 'Press Start 2P', cursive;
+    color: #865af2;
     text-shadow: 4px -1px 0 #000;
+    margin-bottom: 24px;
 }
