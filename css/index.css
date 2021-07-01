@@ -1,7 +1,7 @@
 header {
     display: flex;
     justify-content: space-between;
-    background-color: #882D2D;
+    background-color: #580a55;
     border-bottom: 10px solid #000;
     padding-left: 10px;
     padding-right: 10px;
@@ -29,7 +29,7 @@ margin-right: 17px;
 a::before {
 display: inline-block;
 content: "";
-background-color: rgb(236, 25, 88);
+background-color: rgb(107, 6, 102);
 width:  10px;
 height: 10px;
 margin-right: 10px;
@@ -39,7 +39,7 @@ margin-right: 10px;
 
 #button{
 display: inline-block;
-background-color: #B75D0B;
+background-color: #10a9bd;
 height: 60px;
 line-height: 60px;
 padding-left: 20px;
@@ -56,7 +56,7 @@ transform: scale(1.1);
         display: flex;
         justify-content: space-between;
         background-color: #882D2D;
-        border-bottom: 10px solid #000;
+        border-bottom: 10px solid rgb(27, 160, 201);
         padding-left: 10px;
         padding-right: 10px;
         padding-top: 10px;
@@ -83,7 +83,7 @@ a {
 a::before {
     display: inline-block;
     content: "";
-    background-color: rgb(236, 25, 88);
+    background-color: rgb(27, 160, 201);
     width:  10px;
     height: 10px;
     margin-right: 10px;
@@ -93,7 +93,7 @@ a::before {
 
 #button{
     display: inline-block;
-    background-color: #B75D0B;
+    background-color: #18a2e2;
     height: 60px;
     line-height: 60px;
     padding-left: 20px;
@@ -108,5 +108,3 @@ a::before {
 
 }
 
-h1{ font-family: Arial, Helvetica, sans-serif; 
-}
